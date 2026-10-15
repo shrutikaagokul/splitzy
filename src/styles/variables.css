@@ -1,0 +1,59 @@
+:root {
+  /* Brand Palette */
+  --bg-main: #FFF8F8;
+  --surface-white: #FFFFFF;
+  --surface-warm: #FFFCF7;
+  --petal-pink: #FCE8EE;
+  --dusty-rose: #D995AA;
+  --rosewood: #A95775;
+  --rosewood-hover: #934661;
+  --rosewood-light: #F9EBF0;
+  --soft-lilac: #EEE8FA;
+  --lavender: #B6A3DF;
+  --lavender-light: #F6F3FC;
+  --deep-plum: #39283F;
+  --deep-plum-rgb: 57, 40, 63;
+  --text-primary: #39283F;
+  --text-secondary: #827786;
+  --text-muted: #A39BA6;
+  
+  /* Status Colors */
+  --success-green: #278567;
+  --success-green-bg: #E8F5F1;
+  --error-coral: #D96A79;
+  --error-coral-bg: #FDF0F2;
+  --warning-amber: #D9822B;
+  --warning-amber-bg: #FDF5E6;
+
+  /* Borders & Dividers */
+  --border-subtle: #F0E5EC;
+  --border-card: #EADCE4;
+  --border-focus: #D995AA;
+
+  /* Typography */
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(57, 40, 63, 0.04);
+  --shadow-md: 0 6px 20px rgba(57, 40, 63, 0.06);
+  --shadow-lg: 0 12px 36px rgba(57, 40, 63, 0.08);
+  --shadow-rose: 0 8px 24px rgba(169, 87, 117, 0.22);
+  --shadow-signature: 0 14px 40px rgba(169, 87, 117, 0.14);
+
+  /* Radii */
+  --radius-xs: 6px;
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-full: 9999px;
+
+  /* Layout dimensions */
+  --sidebar-width: 270px;
+  --header-height: 72px;
+
+  /* Transitions */
+  --transition-fast: 0.15s ease;
+  --transition-normal: 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
